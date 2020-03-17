@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_qr:                      "true"
 resume_name:                    "Venkatesh Rao"
-resume_title:                   "Swing Trader/Contrarian View"
+resume_title:                   "Derivative Trader/Quantitative Programmer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "belurvrao@gmail.com"
@@ -25,7 +25,7 @@ display_resume_contact_address:    "true"
 resume_header_contact_info:     "#698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a Swing Trader and self learnt web developer, fluent in C programming, HTML5, CSS, JavaScript, PHP & MySQL. also, i am a freethinker, Scientific humanist and a rationalist.</p>"
+resume_header_intro: "<p>I am a Derivative Trader and a web developer, fluent in C Programming, C++, C#, HTML5, CSS, JavaScript, PHP & MySQL. also, i am a freethinker, Scientific humanist and a rationalist.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
