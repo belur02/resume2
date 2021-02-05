@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_qr:                      "true"
 resume_name:                    "SWATHI C"
 resume_title:                   "Sales Representative/Associates"
