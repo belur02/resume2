@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar" itemprop="image">
+        <img src="images/avatar.png" alt="my photo" class="avatar" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -236,9 +236,12 @@
         </header>
 
         
-        {% for detail in site.data.details %}
+        {% for detail in site.data.detail %}
         <div class="resume-item">
-        <p class="resume-item-copy">{{ detail }}</p>
+          <b>
+              {{detail.detail}} :-
+               </b>
+                  {{detail.description}}
         </div>
         {% endfor %}
          
